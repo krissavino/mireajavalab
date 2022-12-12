@@ -17,6 +17,7 @@ public class Tester {
         printable[1] = new Magazine();
         for(Printable p : printable)
             p.print();
+        ;
     }
     public void task10() {
         Shop shop = new Shop();
